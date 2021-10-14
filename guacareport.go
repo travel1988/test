@@ -71,7 +71,7 @@ var indexHTML = `
 	
 	<tr>
 	<td>
-		<div id="div_table" style="width: 95%; height: 700px; margin-left: auto; margin-right: auto; overflow: auto;"></div>
+		<div id="div_table" style="width: 95%; height: 95%; margin-left: auto; margin-right: auto; overflow: auto;"></div>
     </td>
     </tr>
     </table>
